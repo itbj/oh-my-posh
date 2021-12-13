@@ -31,6 +31,8 @@ Download colortool.exe  form [here](https://github.com/microsoft/terminal/tree/m
 [用 Windows terminal 和 oh-my-posh 打造一个好用的终端](https://iuok.me/archives/312)  
 [美化terminal时碰到的问题- Set-Theme](https://www.icode9.com/content-4-866063.html)  
 [识别不到set-theme命令咋整](https://www.cnblogs.com/fnng/p/12995528.html) reply the question.  大人不华，君子务实。虫师  博客园  
+###💚💚[愉快地使用Windows Terminal](https://zhuanlan.zhihu.com/p/143101492), 知乎，回答了问题。 %USERPROFILE%  
+
 
 
  
